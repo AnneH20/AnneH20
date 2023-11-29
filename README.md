@@ -1,9 +1,12 @@
-### Hi there 👋 My name is Anne and I can code
+### Hi there 👋 
+## My name is Anne and I can code
 
 - 🔭 I’m currently working on my B.S. in Computer Science
   - Concentration in Human and Visual Computing
   - Minor in Business Information Systems
   - Information Assurance Certificate
+- 💻 I enjoy anything UX/UI development related
+  - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
   - I am familiar with all sorts of programming languages including but not limited to:
     * Python
