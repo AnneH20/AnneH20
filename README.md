@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**AnneH20/AnneH20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my B.S. in Computer Science
+  - Concentration in Human and Visual Computing
+  - Minor in Business Information Systems
+  - Information Assurance Certificate
+- 💬 Ask me about anything "code-related"
+  - I am familiar with all sorts of programming languages including but not limited to:
+    * Python
+    * Java
+    * HTML
+    * CSS
+    * PHP
+    * C++
+    * C#
+    * C
+- I can work multiple environments such as Linux, MacOS, Windows, etc.
+- 📫 How to reach me: https://www.linkedin.com/in/anne-h-501b9b260/
+- ⚡ Fun fact: I'm lefthanded
