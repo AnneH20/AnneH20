@@ -1,5 +1,4 @@
-### Hi there 👋
-### My name is Anne, and I can code
+### Hi there 👋 My name is Anne, and I can code
 
 - 🔭 I’m currently working on my B.S. in Computer Science
   - Concentration in Human and Visual Computing
