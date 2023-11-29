@@ -14,6 +14,6 @@
     * C++
     * C#
     * C
-- I can work multiple environments such as Linux, MacOS, Windows, etc.
+- I can work in multiple environments such as Linux, MacOS, Windows, etc.
 - 📫 How to reach me: https://www.linkedin.com/in/anne-h-501b9b260/ **SERIOUS INQUIRES ONLY PLS**
 - ⚡ Fun fact: I'm lefthanded
