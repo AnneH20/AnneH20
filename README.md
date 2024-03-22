@@ -8,7 +8,7 @@
   - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
   - I am familiar with all sorts of programming languages including but not limited to:
-    * Python
+    * <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="50"> Python
     * Java
     * HTML
     * CSS
