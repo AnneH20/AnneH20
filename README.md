@@ -7,30 +7,24 @@
 - 💻 I enjoy anything UX/UI development related
   - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
-<div align="center">
-  <table>
-    <th>Skills</th>
-    <th>Coding/Software Environments</th>
-      <tr><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python</tr>
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25"> HTML
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25"> CSS
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25"> PHP
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg" width="25"> C++
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25"> C#
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL
-      <tr>
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png" width="25"> MacOS
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linux.png" width="25"> Linux
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg" width="25"> VS Code
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/pycharm.svg" width="25"> PyCharm
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/eclipse.png" width="25"> Eclipse
-      </tr>
-  </table>
-</div>
+
+# Skills
+
+|   |   |
+|---|---|
+| ![Python](https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg) Python | ![Java](https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg) Java |
+| ![JavaScript](https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg) JavaScript | ![HTML](https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg) HTML |
+| ![CSS](https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg) CSS | ![PHP](https://github.com/AnneH20/AnneH20/blob/main/Images/php.png) PHP |
+| ![C++](https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg) C++ | ![C#](https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg) C# |
+| ![C](https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg) C | ![MySQL](https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg) MySQL |
+
+# Programming/Software Environments
+
+|   |   |
+|---|---|
+| ![Windows](https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png) Windows | ![MacOS](https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png) MacOS |
+| ![Linux](https://github.com/AnneH20/AnneH20/blob/main/Images/linux.png) Linux | ![VS Code](https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg) VS Code |
+| ![PyCharm](https://github.com/AnneH20/AnneH20/blob/main/Images/pycharm.svg) PyCharm | ![Eclipse](https://github.com/AnneH20/AnneH20/blob/main/Images/eclipse.png) Eclipse |
 
 - 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
     * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"> <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/> </a> LinkedIn
