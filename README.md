@@ -9,8 +9,9 @@
 - 💬 Ask me about anything "code-related"
 
 # Skills
-|   |   |
-|---|---|
+
+|                           |                           |
+|---------------------------|---------------------------|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25"> HTML |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25"> CSS | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25"> PHP |
