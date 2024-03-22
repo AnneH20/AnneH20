@@ -16,6 +16,9 @@
 
 
 ## Skills
+
+- Click on a coding skill to go to a repository utilizing that skill!
+
 <table>
   <thead>
     <tr>
