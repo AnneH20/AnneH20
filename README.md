@@ -35,11 +35,21 @@
 
 
 # Programming/Software Environments
-|   |   |
-|---|---|
-| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png" width="25"> MacOS |
-| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linux.png" width="25"> Linux | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg" width="25"> VS Code |
-| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/pycharm.svg" width="25"> PyCharm | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/eclipse.png" width="25"> Eclipse |
+
+<table>
+  <tr>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows</td>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png" width="25"> MacOS</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linux.png" width="25"> Linux</td>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg" width="25"> VS Code</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/pycharm.svg" width="25"> PyCharm</td>
+    <td><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/eclipse.png" width="25"> Eclipse</td>
+  </tr>
+</table>
 
 - 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
     * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"> <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/> </a> LinkedIn
