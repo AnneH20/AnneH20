@@ -7,7 +7,7 @@
 - 💻 I enjoy anything UX/UI development related
   - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
-  - Programming Languages I know:
+- Programming Languages I know:
     * <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python
     * <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java
     * <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript
