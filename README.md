@@ -11,8 +11,7 @@
   <table>
     <th>Skills</th>
     <th>Coding/Software Environments</th>
-      <tr>
-        <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python
+      <tr><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python</tr>
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25"> HTML
@@ -22,7 +21,6 @@
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25"> C#
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL
-      </tr>
       <tr>
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows
         <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png" width="25"> MacOS
