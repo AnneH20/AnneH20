@@ -10,7 +10,6 @@
 
 # Skills
 
-|   |   |
 |---|---|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25"> HTML |
@@ -20,7 +19,6 @@
 
 # Programming/Software Environments
 
-|   |   |
 |---|---|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/apple.png" width="25"> MacOS |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linux.png" width="25"> Linux | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg" width="25"> VS Code |
