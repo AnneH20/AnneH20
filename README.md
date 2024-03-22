@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Anne, and I can code
+# Hi there 👋 My name is Anne, and I can code
 
 - 🔭 I’m currently working on my B.S. in Computer Science
   - Concentration in Human and Visual Computing
@@ -9,7 +9,7 @@
 - 💬 Ask me about anything "code-related"
 
   
-#### 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
+## 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
   * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/></a> [LinkedIn](https://www.linkedin.com/in/anne-h-501b9b260/)
 
 
