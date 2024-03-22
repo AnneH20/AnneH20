@@ -8,9 +8,12 @@
   - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
 
+
   
 ## 📫 How to reach me (SERIOUS INQUIRES ONLY PLS):
   * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/></a> [LinkedIn](https://www.linkedin.com/in/anne-h-501b9b260/)
+
+
 
 ## Skills
 <table>
