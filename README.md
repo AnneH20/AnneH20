@@ -22,7 +22,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center;>Coding Skills</th>
+      <th colspan="2" style="text-align: center;">Coding Skills</th>
     </tr>
   </thead>
   <tbody>
