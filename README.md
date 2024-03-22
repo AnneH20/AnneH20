@@ -47,8 +47,7 @@
       <td><a href="https://github.com/AnneH20/JAVAGroupProject"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25" alt="MySQL"></a> MySQL</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/HCI-Final-Project"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/uxui.svg" width="45" alt="UX/UI Development"></a> UX/UI Development</td>
-      <td><a href="https://github.com/AnneH20/COBOL"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25" alt="COBOL"></a> COBOL</td>
+      <td colspan="2"><a href="https://github.com/AnneH20/COBOL"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25" alt="COBOL"></a> COBOL</td>
     </tr>
   </tbody>
 </table>
