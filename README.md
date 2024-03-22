@@ -20,6 +20,7 @@
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25"> C# | |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C | |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL | |
+| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25"> COBOL | |
 
 ### 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
 
