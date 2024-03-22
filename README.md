@@ -8,6 +8,10 @@
   - Or anything web development related (aka I like to make things functional & pretty)
 - 💬 Ask me about anything "code-related"
 
+### 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
+
+<a href="https://www.linkedin.com/in/anne-h-501b9b260/"> <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/> </a> LinkedIn
+
 | Skills | Programming/Software Environments |
 |--------|---------------------------------|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/windows.png" width="25"> Windows |
@@ -21,9 +25,3 @@
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C | |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL | |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25"> COBOL | |
-
-### 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
-
-<a href="https://www.linkedin.com/in/anne-h-501b9b260/"> <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/> </a> LinkedIn
-
-⚡ Fun fact: I'm lefthanded
