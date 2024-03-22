@@ -1,4 +1,4 @@
-![python](https://github.com/AnneH20/AnneH20/assets/95251413/ed1552ae-3500-4cfb-a7ed-34d2bc5c5a89)### Hi there 👋 My name is Anne, and I can code
+### Hi there 👋 My name is Anne, and I can code
 
 - 🔭 I’m currently working on my B.S. in Computer Science
   - Concentration in Human and Visual Computing
