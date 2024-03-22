@@ -10,6 +10,8 @@
 - 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
   * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/></a> [LinkedIn](https://www.linkedin.com/in/anne-h-501b9b260/)
 
+|           Skills            |
+|----------------------------|
 | Skills Column 1 | Skills Column 2 |
 |-----------------|-----------------|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript |
@@ -17,7 +19,9 @@
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25"> CSS | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25"> PHP |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg" width="25"> C++ | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25"> C# |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL |
-| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/uxui.svg" width="45"> UX/UI Development | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25"> COBOL |
+| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/uxui.svg" width="45" colspan="2"> UX/UI Development |
+| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25" colspan="2"> COBOL |
+
 
 
 | Programming/Software Environments |
