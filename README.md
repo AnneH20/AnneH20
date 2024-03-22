@@ -10,8 +10,8 @@
 - 📫 How to reach me **(SERIOUS INQUIRES ONLY PLS)**:
   * <a href="https://www.linkedin.com/in/anne-h-501b9b260/"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/linkedin.svg" width="25"/></a> [LinkedIn](https://www.linkedin.com/in/anne-h-501b9b260/)
 
-|               Skills              |
-|-----------------|-----------------|
+|              Skills             |
+|:-----------------:|:-----------------:|
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25"> Python | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25"> JavaScript |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25"> Java | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25"> HTML |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25"> CSS | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25"> PHP |
@@ -27,5 +27,6 @@
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/vscode.svg" width="25"> VS Code |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/pycharm.svg" width="25"> PyCharm |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/eclipse.png" width="25"> Eclipse |
+
 
 
