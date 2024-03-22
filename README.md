@@ -31,7 +31,7 @@
       <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a> JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/JAVAGroupProject"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25" alt="Java"></a> Java</td>
+      <td><a href="https://github.com/AnneH20/JAVA"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25" alt="Java"></a> Java</td>
       <td><a href="https://github.com/AnneH20/HCI-Final-Project"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25" alt="HTML"></a> HTML</td>
     </tr>
     <tr>
