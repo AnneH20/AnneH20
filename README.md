@@ -17,7 +17,7 @@
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25"> CSS | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25"> PHP |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg" width="25"> C++ | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25"> C# |
 | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25"> C | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25"> MySQL |
-| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/uxui.svg" width="25"> UX/UI Development | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25"> COBOL |
+| <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/uxui.svg" width="45"> UX/UI Development | <img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25"> COBOL |
 
 
 | Programming/Software Environments |
