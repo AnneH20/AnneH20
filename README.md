@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AnneH20/IntroPython"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25" alt="Python"></a> [Python](https://github.com/AnneH20/IntroPython)</td>
+      <td><a href="https://github.com/AnneH20/IntroPython"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25" alt="Python"></a><a href="https://github.com/AnneH20/IntroPython">Python</a></td>
       <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a> JavaScript</td>
     </tr>
     <tr>
