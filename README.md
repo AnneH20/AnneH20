@@ -28,26 +28,26 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/AnneH20/IntroPython"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25" alt="Python"></a><a href="https://github.com/AnneH20/IntroPython">Python</a></td>
-      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a> JavaScript</td>
+      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a><a href="https://github.com/AnneH20/WebDev">JavaScript</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/JAVA"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25" alt="Java"></a> Java</td>
-      <td><a href="https://github.com/AnneH20/HCI-Final-Project"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25" alt="HTML"></a> HTML</td>
+      <td><a href="https://github.com/AnneH20/JAVA"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25" alt="Java"></a><a href="https://github.com/AnneH20/JAV">Java</a></td>
+      <td><a href="https://github.com/AnneH20/HCI-Final-Project"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/html.svg" width="25" alt="HTML"></a><a href="https://github.com/AnneH20/HCI-Final-Project">HTML</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25" alt="CSS"></a> CSS</td>
-      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25" alt="PHP"></a> PHP</td>
+      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/css.svg" width="25" alt="CSS"></a><a href="https://github.com/AnneH20/WebDev">CSS</a></td>
+      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/php.png" width="25" alt="PHP"></a><a href="https://github.com/AnneH20/WebDev">PHP</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/DataStructures"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg" width="25" alt="C++"></a> C++</td>
-      <td><a href="https://github.com/AnneH20/GameDesignGM3"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25" alt="C#"></a> C#</td>
+      <td><a href="https://github.com/AnneH20/DataStructures"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%2B%2B.svg" width="25" alt="C++"></a><a href="https://github.com/AnneH20/DataStructures">C++</a></td>
+      <td><a href="https://github.com/AnneH20/GameDesignGM3"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c%23.svg" width="25" alt="C#"></a><a href="https://github.com/AnneH20/GameDesignGM3">C#</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnneH20/SystemsProg"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25" alt="C"></a> C</td>
-      <td><a href="https://github.com/AnneH20/JAVAGroupProject"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25" alt="MySQL"></a> MySQL</td>
+      <td><a href="https://github.com/AnneH20/SystemsProg"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/c.svg" width="25" alt="C"></a><a href="https://github.com/AnneH20/SystemsProg">C</a></td>
+      <td><a href="https://github.com/AnneH20/JAVAGroupProject"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/mysql.svg" width="25" alt="MySQL"></a><a href="https://github.com/AnneH20/JAVAGroupProject">MySQL</a></td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center;"><a href="https://github.com/AnneH20/COBOL"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25" alt="COBOL"></a>COBOL</td>
+      <td colspan="2" style="text-align: center;"><a href="https://github.com/AnneH20/COBOL"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/cobol.png" width="25" alt="COBOL"></a><a href="https://github.com/AnneH20/COBOL">COBOL</a></td>
     </tr>
   </tbody>
 </table>
