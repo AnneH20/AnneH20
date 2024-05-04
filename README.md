@@ -28,7 +28,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/AnneH20/IntroPython"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/python.svg" width="25" alt="Python"></a><a href="https://github.com/AnneH20/IntroPython">Python</a></td>
-      <td><a href="https://github.com/AnneH20/WebDev"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a><a href="https://github.com/AnneH20/WebDev">JavaScript</a></td>
+      <td><a href="https://github.com/AnneH20/WebDev/tree/main/Web%20Development%202"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/javascript.svg" width="25" alt="JavaScript"></a><a href="https://github.com/AnneH20/WebDev/tree/main/Web%20Development%202">JavaScript</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/AnneH20/JAVA"><img src="https://github.com/AnneH20/AnneH20/blob/main/Images/java.svg" width="25" alt="Java"></a><a href="https://github.com/AnneH20/JAVA">Java</a></td>
