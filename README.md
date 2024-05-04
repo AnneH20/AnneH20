@@ -6,7 +6,7 @@
   - Information Assurance Certificate
 - 📱 I enjoy anything UX/UI development related
   - Or anything web development related (aka I like to make things functional & pretty)
-- 💬 Ask me about anything "code-related"
+- 💬 Ask me about my code! Feel free to give me suggestions!
 
 
   
