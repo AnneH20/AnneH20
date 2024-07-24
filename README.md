@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Anne, and I like to code!
 
-- 💻 I’m currently working on my B.S. in Computer Science
+- 💻 I’m a software engineer who graduated in May 2024 with a B.S. in Computer Science
   - Concentration in Human and Visual Computing
   - Minor in Business Information Systems
   - Information Assurance Certificate
